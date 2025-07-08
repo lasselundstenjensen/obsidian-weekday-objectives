@@ -6,7 +6,7 @@
     <string>com.username.createweeklymarkdown</string>
     <key>ProgramArguments</key>
     <array>
-      <string>/Users/llzj/.config/create_obsidian_files.sh</string>
+      <string>/Users/USERNAME/.config/create_obsidian_files.sh</string>
     </array>
     <key>StartCalendarInterval</key>
     <dict>
