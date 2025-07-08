@@ -2,7 +2,7 @@
 
 # Specify the directory where the markdown files will be created
 #output_dir="."
-output_dir="$HOME/git/ljobs/LJ/Daily objectives"
+output_dir="$HOME/git/REPO_NAME"
 
 # Step 1: Collect all weekdays (Monday to Friday) of the current week into a list
 dates=()
